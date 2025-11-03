@@ -6,10 +6,10 @@ public:
         for(int i=1;i<colors.size();i++){
             if(colors[i] == colors[i-1]){
                 if(val <= neededTime[i]){
-                    time += max(time,val);
+                    time += val;
                     val  = neededTime[i];
                 }else{
-                    time += max(time,neededTime[i]);
+                    time +=neededTime[i];
                 }
             }else{
                 val = neededTime[i];
