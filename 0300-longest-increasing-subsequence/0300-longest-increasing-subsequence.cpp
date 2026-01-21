@@ -1,27 +1,19 @@
 class Solution {
 public:
+   
     int lengthOfLIS(vector<int>& nums) {
-        int n = nums.size();
+        vector<int> temp;
 
-        // dp[i][prev+1]
-        vector<vector<int>> dp(n + 1, vector<int>(n + 1, 0));
+        for (int x : nums) {
+            auto it = lower_bound(temp.begin(), temp.end(), x);
 
-        // base: dp[n][*] = 0 already
-
-        for(int i = n - 1; i >= 0; i--) {
-            for(int prev = i - 1; prev >= -1; prev--) {
-
-                int pick = 0;
-                if(prev == -1 || nums[i] > nums[prev]) {
-                    pick = 1 + dp[i + 1][i + 1];  // prev becomes i
-                }
-
-                int nonpick = dp[i + 1][prev + 1];
-
-                dp[i][prev + 1] = max(pick, nonpick);
+            if (it == temp.end()) {
+                temp.push_back(x);
+            } else {
+                *it = x;            
             }
         }
 
-        return dp[0][0]; // i=0, prev=-1 => prev+1 = 0
+        return temp.size();
     }
 };
