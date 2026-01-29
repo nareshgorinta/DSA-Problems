@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int solve(int i,vector<int> & nums,vector<int>&dp){
+    long long solve(int i,vector<int> & nums,vector<int>&dp){
         if(i>=nums.size()){
             return INT_MAX;;
         }
@@ -11,7 +11,7 @@ public:
             return dp[i];
         }
         int k = nums[i];
-        int ans = nums.size();
+        long long ans = nums.size();
         for(int j=1;j<=k;j++){
             ans = min(ans,1+solve(j+i,nums,dp));
         }
