@@ -1,27 +1,19 @@
 class Solution {
 public:
-    long long solve(int i,vector<int> & nums,vector<int>&dp){
-        if(i>=nums.size()){
-            return INT_MAX;;
-        }
-        if(i==nums.size()-1){
-            return 0;
-        }
-        if(dp[i] != -1){
-            return dp[i];
-        }
-        int k = nums[i];
-        long long ans = nums.size();
-        for(int j=1;j<=k;j++){
-            ans = min(ans,1+solve(j+i,nums,dp));
-        }
-
-        dp[i]=ans;
-        return dp[i];
-    }
     int jump(vector<int>& nums) {
-        int n = nums.size();
-        vector<int>dp(n+1,-1);
-        return solve(0,nums,dp);
+    int n = nums.size();
+    vector<int> dp(n, INT_MAX);
+
+    dp[n-1] = 0;  // last index needs 0 jumps
+
+    for(int i = n-2; i >= 0; i--) {
+        for(int k = 1; k <= nums[i] && i + k < n; k++) {
+            if(dp[i + k] != INT_MAX) {
+                dp[i] = min(dp[i], 1 + dp[i + k]);
+            }
+        }
     }
+    return dp[0];
+}
+
 };
