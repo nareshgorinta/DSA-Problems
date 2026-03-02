@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0485-max-consecutive-ones](https://github.com/nareshgorinta/DSA-Problems/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/nareshgorinta/DSA-Problems/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1929-concatenation-of-array](https://github.com/nareshgorinta/DSA-Problems/tree/main/1929-concatenation-of-array/) | Easy |
 ## Greedy
