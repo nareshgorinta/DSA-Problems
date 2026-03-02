@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/nareshgorinta/DSA-Problems/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
+| [1929-concatenation-of-array](https://github.com/nareshgorinta/DSA-Problems/tree/main/1929-concatenation-of-array/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -39,4 +40,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0113-path-sum-ii](https://github.com/nareshgorinta/DSA-Problems/tree/main/0113-path-sum-ii/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1929-concatenation-of-array](https://github.com/nareshgorinta/DSA-Problems/tree/main/1929-concatenation-of-array/) | Easy |
 <!---LeetCode Topics End-->
