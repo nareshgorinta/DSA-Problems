@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0485-max-consecutive-ones](https://github.com/nareshgorinta/DSA-Problems/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0695-max-area-of-island](https://github.com/nareshgorinta/DSA-Problems/tree/main/0695-max-area-of-island/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/nareshgorinta/DSA-Problems/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1929-concatenation-of-array](https://github.com/nareshgorinta/DSA-Problems/tree/main/1929-concatenation-of-array/) | Easy |
 ## Greedy
@@ -14,6 +15,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0695-max-area-of-island](https://github.com/nareshgorinta/DSA-Problems/tree/main/0695-max-area-of-island/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/nareshgorinta/DSA-Problems/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -27,10 +29,12 @@
 | [0112-path-sum](https://github.com/nareshgorinta/DSA-Problems/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/nareshgorinta/DSA-Problems/tree/main/0113-path-sum-ii/) | Medium |
 | [0437-path-sum-iii](https://github.com/nareshgorinta/DSA-Problems/tree/main/0437-path-sum-iii/) | Medium |
+| [0695-max-area-of-island](https://github.com/nareshgorinta/DSA-Problems/tree/main/0695-max-area-of-island/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/nareshgorinta/DSA-Problems/tree/main/0112-path-sum/) | Easy |
+| [0695-max-area-of-island](https://github.com/nareshgorinta/DSA-Problems/tree/main/0695-max-area-of-island/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,4 +49,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1929-concatenation-of-array](https://github.com/nareshgorinta/DSA-Problems/tree/main/1929-concatenation-of-array/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0695-max-area-of-island](https://github.com/nareshgorinta/DSA-Problems/tree/main/0695-max-area-of-island/) | Medium |
 <!---LeetCode Topics End-->
