@@ -53,4 +53,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0695-max-area-of-island](https://github.com/nareshgorinta/DSA-Problems/tree/main/0695-max-area-of-island/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0006-zigzag-conversion](https://github.com/nareshgorinta/DSA-Problems/tree/main/0006-zigzag-conversion/) | Medium |
 <!---LeetCode Topics End-->
