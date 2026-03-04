@@ -36,6 +36,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/nareshgorinta/DSA-Problems/tree/main/0112-path-sum/) | Easy |
+| [0279-perfect-squares](https://github.com/nareshgorinta/DSA-Problems/tree/main/0279-perfect-squares/) | Medium |
 | [0695-max-area-of-island](https://github.com/nareshgorinta/DSA-Problems/tree/main/0695-max-area-of-island/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -68,4 +69,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nareshgorinta/DSA-Problems/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0279-perfect-squares](https://github.com/nareshgorinta/DSA-Problems/tree/main/0279-perfect-squares/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0279-perfect-squares](https://github.com/nareshgorinta/DSA-Problems/tree/main/0279-perfect-squares/) | Medium |
 <!---LeetCode Topics End-->
