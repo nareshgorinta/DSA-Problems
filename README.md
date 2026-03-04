@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/nareshgorinta/DSA-Problems/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0485-max-consecutive-ones](https://github.com/nareshgorinta/DSA-Problems/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0695-max-area-of-island](https://github.com/nareshgorinta/DSA-Problems/tree/main/0695-max-area-of-island/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/nareshgorinta/DSA-Problems/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -16,6 +17,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/nareshgorinta/DSA-Problems/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0695-max-area-of-island](https://github.com/nareshgorinta/DSA-Problems/tree/main/0695-max-area-of-island/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/nareshgorinta/DSA-Problems/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/nareshgorinta/DSA-Problems/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -30,6 +32,7 @@
 | ------- | ------- |
 | [0112-path-sum](https://github.com/nareshgorinta/DSA-Problems/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/nareshgorinta/DSA-Problems/tree/main/0113-path-sum-ii/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/nareshgorinta/DSA-Problems/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0437-path-sum-iii](https://github.com/nareshgorinta/DSA-Problems/tree/main/0437-path-sum-iii/) | Medium |
 | [0695-max-area-of-island](https://github.com/nareshgorinta/DSA-Problems/tree/main/0695-max-area-of-island/) | Medium |
 ## Breadth-First Search
@@ -37,6 +40,7 @@
 | ------- | ------- |
 | [0112-path-sum](https://github.com/nareshgorinta/DSA-Problems/tree/main/0112-path-sum/) | Easy |
 | [0279-perfect-squares](https://github.com/nareshgorinta/DSA-Problems/tree/main/0279-perfect-squares/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/nareshgorinta/DSA-Problems/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0695-max-area-of-island](https://github.com/nareshgorinta/DSA-Problems/tree/main/0695-max-area-of-island/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -70,8 +74,21 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nareshgorinta/DSA-Problems/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0279-perfect-squares](https://github.com/nareshgorinta/DSA-Problems/tree/main/0279-perfect-squares/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/nareshgorinta/DSA-Problems/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0279-perfect-squares](https://github.com/nareshgorinta/DSA-Problems/tree/main/0279-perfect-squares/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/nareshgorinta/DSA-Problems/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/nareshgorinta/DSA-Problems/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/nareshgorinta/DSA-Problems/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 <!---LeetCode Topics End-->
