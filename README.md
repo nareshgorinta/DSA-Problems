@@ -8,12 +8,14 @@
 | [0403-frog-jump](https://github.com/nareshgorinta/DSA-Problems/tree/main/0403-frog-jump/) | Hard |
 | [0485-max-consecutive-ones](https://github.com/nareshgorinta/DSA-Problems/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0695-max-area-of-island](https://github.com/nareshgorinta/DSA-Problems/tree/main/0695-max-area-of-island/) | Medium |
+| [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/nareshgorinta/DSA-Problems/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/nareshgorinta/DSA-Problems/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/nareshgorinta/DSA-Problems/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1929-concatenation-of-array](https://github.com/nareshgorinta/DSA-Problems/tree/main/1929-concatenation-of-array/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/nareshgorinta/DSA-Problems/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/nareshgorinta/DSA-Problems/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -94,4 +96,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/nareshgorinta/DSA-Problems/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/nareshgorinta/DSA-Problems/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
 <!---LeetCode Topics End-->
