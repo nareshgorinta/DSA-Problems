@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/nareshgorinta/DSA-Problems/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [0403-frog-jump](https://github.com/nareshgorinta/DSA-Problems/tree/main/0403-frog-jump/) | Hard |
 | [0485-max-consecutive-ones](https://github.com/nareshgorinta/DSA-Problems/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0695-max-area-of-island](https://github.com/nareshgorinta/DSA-Problems/tree/main/0695-max-area-of-island/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/nareshgorinta/DSA-Problems/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -76,6 +77,7 @@
 | [0005-longest-palindromic-substring](https://github.com/nareshgorinta/DSA-Problems/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0279-perfect-squares](https://github.com/nareshgorinta/DSA-Problems/tree/main/0279-perfect-squares/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/nareshgorinta/DSA-Problems/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [0403-frog-jump](https://github.com/nareshgorinta/DSA-Problems/tree/main/0403-frog-jump/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
