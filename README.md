@@ -72,6 +72,7 @@
 | [0005-longest-palindromic-substring](https://github.com/nareshgorinta/DSA-Problems/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0006-zigzag-conversion](https://github.com/nareshgorinta/DSA-Problems/tree/main/0006-zigzag-conversion/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/nareshgorinta/DSA-Problems/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/nareshgorinta/DSA-Problems/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
