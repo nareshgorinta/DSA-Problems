@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0051-n-queens](https://github.com/nareshgorinta/DSA-Problems/tree/main/0051-n-queens/) | Hard |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/nareshgorinta/DSA-Problems/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0403-frog-jump](https://github.com/nareshgorinta/DSA-Problems/tree/main/0403-frog-jump/) | Hard |
 | [0485-max-consecutive-ones](https://github.com/nareshgorinta/DSA-Problems/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -56,6 +57,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0051-n-queens](https://github.com/nareshgorinta/DSA-Problems/tree/main/0051-n-queens/) | Hard |
 | [0113-path-sum-ii](https://github.com/nareshgorinta/DSA-Problems/tree/main/0113-path-sum-ii/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/nareshgorinta/DSA-Problems/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 ## Simulation
