@@ -7,6 +7,7 @@
 | [0051-n-queens](https://github.com/nareshgorinta/DSA-Problems/tree/main/0051-n-queens/) | Hard |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/nareshgorinta/DSA-Problems/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0403-frog-jump](https://github.com/nareshgorinta/DSA-Problems/tree/main/0403-frog-jump/) | Hard |
+| [0413-arithmetic-slices](https://github.com/nareshgorinta/DSA-Problems/tree/main/0413-arithmetic-slices/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/nareshgorinta/DSA-Problems/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0695-max-area-of-island](https://github.com/nareshgorinta/DSA-Problems/tree/main/0695-max-area-of-island/) | Medium |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/nareshgorinta/DSA-Problems/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
@@ -86,6 +87,7 @@
 | [0279-perfect-squares](https://github.com/nareshgorinta/DSA-Problems/tree/main/0279-perfect-squares/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/nareshgorinta/DSA-Problems/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0403-frog-jump](https://github.com/nareshgorinta/DSA-Problems/tree/main/0403-frog-jump/) | Hard |
+| [0413-arithmetic-slices](https://github.com/nareshgorinta/DSA-Problems/tree/main/0413-arithmetic-slices/) | Medium |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/nareshgorinta/DSA-Problems/tree/main/1155-number-of-dice-rolls-with-target-sum/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -108,4 +110,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/nareshgorinta/DSA-Problems/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0413-arithmetic-slices](https://github.com/nareshgorinta/DSA-Problems/tree/main/0413-arithmetic-slices/) | Medium |
 <!---LeetCode Topics End-->
