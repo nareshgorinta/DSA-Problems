@@ -14,6 +14,7 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/nareshgorinta/DSA-Problems/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/nareshgorinta/DSA-Problems/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1929-concatenation-of-array](https://github.com/nareshgorinta/DSA-Problems/tree/main/1929-concatenation-of-array/) | Easy |
+| [1980-find-unique-binary-string](https://github.com/nareshgorinta/DSA-Problems/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,6 +62,7 @@
 | [0051-n-queens](https://github.com/nareshgorinta/DSA-Problems/tree/main/0051-n-queens/) | Hard |
 | [0113-path-sum-ii](https://github.com/nareshgorinta/DSA-Problems/tree/main/0113-path-sum-ii/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/nareshgorinta/DSA-Problems/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [1980-find-unique-binary-string](https://github.com/nareshgorinta/DSA-Problems/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,6 +78,7 @@
 | [0006-zigzag-conversion](https://github.com/nareshgorinta/DSA-Problems/tree/main/0006-zigzag-conversion/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/nareshgorinta/DSA-Problems/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/nareshgorinta/DSA-Problems/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+| [1980-find-unique-binary-string](https://github.com/nareshgorinta/DSA-Problems/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -114,4 +117,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0413-arithmetic-slices](https://github.com/nareshgorinta/DSA-Problems/tree/main/0413-arithmetic-slices/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1980-find-unique-binary-string](https://github.com/nareshgorinta/DSA-Problems/tree/main/1980-find-unique-binary-string/) | Medium |
 <!---LeetCode Topics End-->
