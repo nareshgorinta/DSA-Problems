@@ -13,6 +13,7 @@
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/nareshgorinta/DSA-Problems/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/nareshgorinta/DSA-Problems/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/nareshgorinta/DSA-Problems/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nareshgorinta/DSA-Problems/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1929-concatenation-of-array](https://github.com/nareshgorinta/DSA-Problems/tree/main/1929-concatenation-of-array/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/nareshgorinta/DSA-Problems/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nareshgorinta/DSA-Problems/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
@@ -28,6 +29,7 @@
 | [0695-max-area-of-island](https://github.com/nareshgorinta/DSA-Problems/tree/main/0695-max-area-of-island/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/nareshgorinta/DSA-Problems/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/nareshgorinta/DSA-Problems/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nareshgorinta/DSA-Problems/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nareshgorinta/DSA-Problems/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -96,6 +98,7 @@
 | [0403-frog-jump](https://github.com/nareshgorinta/DSA-Problems/tree/main/0403-frog-jump/) | Hard |
 | [0413-arithmetic-slices](https://github.com/nareshgorinta/DSA-Problems/tree/main/0413-arithmetic-slices/) | Medium |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/nareshgorinta/DSA-Problems/tree/main/1155-number-of-dice-rolls-with-target-sum/) | Medium |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nareshgorinta/DSA-Problems/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
