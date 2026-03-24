@@ -16,6 +16,7 @@
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nareshgorinta/DSA-Problems/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1929-concatenation-of-array](https://github.com/nareshgorinta/DSA-Problems/tree/main/1929-concatenation-of-array/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/nareshgorinta/DSA-Problems/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2906-construct-product-matrix](https://github.com/nareshgorinta/DSA-Problems/tree/main/2906-construct-product-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nareshgorinta/DSA-Problems/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -30,6 +31,7 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/nareshgorinta/DSA-Problems/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/nareshgorinta/DSA-Problems/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nareshgorinta/DSA-Problems/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [2906-construct-product-matrix](https://github.com/nareshgorinta/DSA-Problems/tree/main/2906-construct-product-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nareshgorinta/DSA-Problems/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -135,5 +137,6 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2906-construct-product-matrix](https://github.com/nareshgorinta/DSA-Problems/tree/main/2906-construct-product-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nareshgorinta/DSA-Problems/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 <!---LeetCode Topics End-->
