@@ -22,6 +22,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0044-wildcard-matching](https://github.com/nareshgorinta/DSA-Problems/tree/main/0044-wildcard-matching/) | Hard |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/nareshgorinta/DSA-Problems/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/nareshgorinta/DSA-Problems/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 ## Matrix
@@ -85,6 +86,7 @@
 | [0005-longest-palindromic-substring](https://github.com/nareshgorinta/DSA-Problems/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0006-zigzag-conversion](https://github.com/nareshgorinta/DSA-Problems/tree/main/0006-zigzag-conversion/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/nareshgorinta/DSA-Problems/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0044-wildcard-matching](https://github.com/nareshgorinta/DSA-Problems/tree/main/0044-wildcard-matching/) | Hard |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/nareshgorinta/DSA-Problems/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/nareshgorinta/DSA-Problems/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/nareshgorinta/DSA-Problems/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -97,6 +99,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nareshgorinta/DSA-Problems/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/nareshgorinta/DSA-Problems/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0044-wildcard-matching](https://github.com/nareshgorinta/DSA-Problems/tree/main/0044-wildcard-matching/) | Hard |
 | [0279-perfect-squares](https://github.com/nareshgorinta/DSA-Problems/tree/main/0279-perfect-squares/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/nareshgorinta/DSA-Problems/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0403-frog-jump](https://github.com/nareshgorinta/DSA-Problems/tree/main/0403-frog-jump/) | Hard |
@@ -146,4 +149,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/nareshgorinta/DSA-Problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0044-wildcard-matching](https://github.com/nareshgorinta/DSA-Problems/tree/main/0044-wildcard-matching/) | Hard |
 <!---LeetCode Topics End-->
