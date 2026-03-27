@@ -18,6 +18,7 @@
 | [1929-concatenation-of-array](https://github.com/nareshgorinta/DSA-Problems/tree/main/1929-concatenation-of-array/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/nareshgorinta/DSA-Problems/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2906-construct-product-matrix](https://github.com/nareshgorinta/DSA-Problems/tree/main/2906-construct-product-matrix/) | Medium |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/nareshgorinta/DSA-Problems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nareshgorinta/DSA-Problems/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/nareshgorinta/DSA-Problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Greedy
@@ -36,6 +37,7 @@
 | [1582-special-positions-in-a-binary-matrix](https://github.com/nareshgorinta/DSA-Problems/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nareshgorinta/DSA-Problems/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [2906-construct-product-matrix](https://github.com/nareshgorinta/DSA-Problems/tree/main/2906-construct-product-matrix/) | Medium |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/nareshgorinta/DSA-Problems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nareshgorinta/DSA-Problems/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/nareshgorinta/DSA-Problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Tree
@@ -78,6 +80,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1929-concatenation-of-array](https://github.com/nareshgorinta/DSA-Problems/tree/main/1929-concatenation-of-array/) | Easy |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/nareshgorinta/DSA-Problems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -113,6 +116,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0279-perfect-squares](https://github.com/nareshgorinta/DSA-Problems/tree/main/0279-perfect-squares/) | Medium |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/nareshgorinta/DSA-Problems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
