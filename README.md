@@ -11,6 +11,7 @@
 | [0485-max-consecutive-ones](https://github.com/nareshgorinta/DSA-Problems/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0695-max-area-of-island](https://github.com/nareshgorinta/DSA-Problems/tree/main/0695-max-area-of-island/) | Medium |
 | [0741-cherry-pickup](https://github.com/nareshgorinta/DSA-Problems/tree/main/0741-cherry-pickup/) | Hard |
+| [0766-toeplitz-matrix](https://github.com/nareshgorinta/DSA-Problems/tree/main/0766-toeplitz-matrix/) | Easy |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/nareshgorinta/DSA-Problems/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/nareshgorinta/DSA-Problems/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/nareshgorinta/DSA-Problems/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -33,6 +34,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/nareshgorinta/DSA-Problems/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0695-max-area-of-island](https://github.com/nareshgorinta/DSA-Problems/tree/main/0695-max-area-of-island/) | Medium |
 | [0741-cherry-pickup](https://github.com/nareshgorinta/DSA-Problems/tree/main/0741-cherry-pickup/) | Hard |
+| [0766-toeplitz-matrix](https://github.com/nareshgorinta/DSA-Problems/tree/main/0766-toeplitz-matrix/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/nareshgorinta/DSA-Problems/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/nareshgorinta/DSA-Problems/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nareshgorinta/DSA-Problems/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
